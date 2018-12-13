@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/web_rtl/static/src/fonts/DroidKufi-Regular.eot);
+  src: url(/web_rtl/static/src/fonts/DroidKufi-Regular.woff2) format('woff2'),
+       url(/web_rtl/static/src/fonts/DroidKufi-Regular.woff) format('woff'),
+       url(/web_rtl/static/src/fonts/DroidKufi-Regular.ttf) format('truetype');
+html *{
+   font-family: 'JFFlat', serif;
+}
+    
 .text-right{
     text-align: left !important;
 }
