@@ -7,7 +7,7 @@
        url(/web_rtl/static/src/fonts/DroidKufi-Regular.woff) format('woff'),
        url(/web_rtl/static/src/fonts/DroidKufi-Regular.ttf) format('truetype');
 html *{
-   font-family: 'JFFlat', serif;
+   font-family: 'Droid Arabic Kufi', serif;
 }
     
 .text-right{
